@@ -3,8 +3,8 @@
 /**
  * add - function that adds two integers and returns the result
  *
- * @i: first integer
- * @j: second integer
+ * @num1: first integer
+ * @num2: second integer
  * Return: sum of two numbers
  *
  */
