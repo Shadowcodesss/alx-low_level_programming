@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * Prints times table of the input
- * starts with 0
+ * print_times_table - Prints times table of the input
+ *			starts with 0
+ * @n: greater than 15 or less than 0 the function should not print anything
  * The value will be printed on a times table
  */
 
